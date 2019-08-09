@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="simplenlg-v4.4">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../simplenlg-v4.4.8" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../simplenlg-v4.4.8/docs/javadoc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../simplenlg-v4.4.8/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../simplenlg-v4.4.8/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../simplenlg-v4.4.8" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../simplenlg-v4.4.8" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../simplenlg-v4.4.8" recursive="false" type="SOURCES" />
+  </library>
+</component>
